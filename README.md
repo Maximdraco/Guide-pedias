@@ -18,3 +18,5 @@ I don't think I will accept suggestions for games, I already have some I'm inter
 And finally, I would apreaciate if you report to me any problem, if is some mistake in the information, like the source I used being wrong, some proof or way to facilitate me to reach that point in the game to verify it would be apreciated, but the report will be enough.
 
 You can contact me sending me an email to maximdrac@gmail.com, sending a DM to my [Retroachievements account](https://retroachievements.org/user/Maximdraco), or trough the issue section of the repo.
+
+I will also upload here other guides that I would make for games.
